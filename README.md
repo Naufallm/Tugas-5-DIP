@@ -51,7 +51,7 @@ Dataset yang digunakan adalah `student_habits_performance.csv`. Untuk analisis i
 `study_hours_per_day` memiliki Information Gain tertinggi, mengkonfirmasi bahwa fitur ini memberikan informasi paling banyak tentang kategori nilai ujian.
 
 ### Heatmap Korelasi
-![Heatmap of Pearson Correlation Matrix](generated:code_execution_image_1_1748053577.6568406.png-1527861862319175200927a8689598e18233)
+![Image](https://github.com/user-attachments/assets/b8b8d748-6ddb-49a3-8f08-41ce12b84850)
 
 ### Kesimpulan
 Berdasarkan kedua metode, **`study_hours_per_day`** secara konsisten terbukti menjadi fitur paling relevan dan signifikan dalam memprediksi `exam_score`. Fitur lain seperti `social_media_hours`, `netflix_hours`, `attendance_percentage`, dan `sleep_hours` menunjukkan relevansi yang jauh lebih rendah atau bahkan tidak relevan dalam konteks ini.
